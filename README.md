@@ -13,7 +13,7 @@
 
 ### `3. make_embedding_on_real_time_video.ipynb`
 
-`I try to make embedding from real time video. It is not complete.`
+`I try to make embedding from real time video. It is not completed.`
 
 
 <br>
